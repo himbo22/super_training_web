@@ -300,3 +300,15 @@ th{
 .toast--error .toast__icon {
   color: #ff623d;
 }
+
+.box1 {
+  background-color: green;
+}
+
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
